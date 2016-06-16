@@ -14,7 +14,7 @@ class FeedController extends Controller
     {	
     	$feedRepository = new FeedRepository();
     	$feeds = $feedRepository->getComercFeeds();
-		return json_encode($feeds);
+	return json_encode($feeds);
     }
 
 }
