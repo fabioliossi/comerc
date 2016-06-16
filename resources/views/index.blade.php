@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    	<meta http-equiv="refresh" content="120">
     	<link href="{!! asset('assets/css/layout.css') !!}" media="all" rel="stylesheet" type="text/css" />
     	<link href="{!! asset('assets/js/unslider/dist/css/unslider.css') !!}" media="all" rel="stylesheet" type="text/css" />
     	<script type="text/javascript" src="assets/js/jquery.js"></script>
