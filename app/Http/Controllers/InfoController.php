@@ -14,7 +14,7 @@ class InfoController extends Controller
     public function index()
     {
     	$feedRepository = new FeedRepository();
-		$feeds = $feedRepository->getComercFeeds();
+	$feeds = $feedRepository->getComercFeeds();
     	return view('index')->with("feeds",$feeds);    
     }
 }
