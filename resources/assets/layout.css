@@ -1,0 +1,21 @@
+body{
+	width:100%;
+}
+
+.rodape{
+	position:absolute;
+	bottom:0;
+	height:90px;
+	width:99%;
+	min-height:10px;
+	border:1px solid black;
+}
+
+.conteudo{
+	width: 80%;
+	background-color:#79ff4d;            
+}
+
+.conteudo h1{
+	color:#9933ff;            
+}

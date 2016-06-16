@@ -1,0 +1,44 @@
+body{
+	width:100%;
+}
+
+.footer #clock{
+	color:#6666ff;
+	font-size:80px;
+	float:right;
+	padding-right:10px;
+	min-height:100px;
+}
+
+.slide h1{
+	color:#884dff;
+}
+
+.slide h2{
+	color:white;
+}
+
+.slider {
+   float: left;
+   font-family: Georgia, Serif;
+   width:99%;
+}
+
+.slide {
+   float: left;
+   background-color:#66ff66;
+   font-family: Georgia, Serif;
+   width:100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-image:url("../img/comerc_logo.jpg");
+  background-repeat: no-repeat;
+  background-color:white;
+  width:100%;
+  height:90px;
+  float:right;
+  min-height:100px;
+}

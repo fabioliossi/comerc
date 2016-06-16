@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Comerc</title>
+	<atom:link href="http://www.panoramacomerc.com.br/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.panoramacomerc.com.br</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 14 Jun 2016 19:14:59 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>ANEEL reduz cobranÃ§a de CDE em 2016</title>
+		<link>http://www.panoramacomerc.com.br/?p=5599</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5599#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Energia em pÃ­lulas]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5599</guid>
+		<description><![CDATA[Consumidores de energia terÃ£o desconto de 8,45% no encargo A AgÃªncia Nacional de Energia ElÃ©trica (ANEEL) anunciou reduÃ§Ã£o noorÃ§amento da Conta de Desenvolvimento EnergÃ©tico (CDE) em 2016. A diminuiÃ§Ã£o Ã© de R$ 1,094 bilhÃ£o, o que equivale a cerca de 8,45% da cota paga pelos consumidores. A decisÃ£o foi anunciada na 20Âª ReuniÃ£o PÃºblica OrdinÃ¡ria [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Consumidores de energia terÃ£o desconto de 8,45% no encargo</em></p>
+<p>A AgÃªncia Nacional de Energia ElÃ©trica (ANEEL) anunciou reduÃ§Ã£o noorÃ§amento da Conta de Desenvolvimento EnergÃ©tico (CDE) em 2016<strong>. A diminuiÃ§Ã£o Ã© de R$ 1,094 bilhÃ£o, o que equivale a cerca de 8,45% da cota paga pelos consumidores.</strong> A decisÃ£o foi anunciada na 20Âª ReuniÃ£o PÃºblica OrdinÃ¡ria da AgÃªncia, realizada em 08/06/16. A decisÃ£o impacta todos os consumidores de energia, tantos os livres e especiais quanto os cativos.</p>
+<p>A CDE Ã© um encargo cobrado na conta de energia de todos os consumidores do paÃ­s. Os recursos arrecadados sÃ£o destinados a diversos fins, como bancar descontos na conta de energia para populaÃ§Ã£o de baixa renda, custear a geraÃ§Ã£o de energia nos sistemas elÃ©tricos isolados, pagar indenizaÃ§Ãµes de concessÃµes, entre outros.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5599</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PLD volta a cair em quase todo o paÃ­s</title>
+		<link>http://www.panoramacomerc.com.br/?p=5590</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5590#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:52:49 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[PLD]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5590</guid>
+		<description><![CDATA[Nordeste Ã© exceÃ§Ã£o, com alta de 15% em relaÃ§Ã£o Ã  semana anterior O PreÃ§o de LiquidaÃ§Ã£o das DiferenÃ§as (PLD), utilizado como referÃªncia para a contrataÃ§Ã£o de energia no mercado livre, diminuiu em trÃªs submercados para a terceira semana de junho. O Sul teve a queda mais discreta (-0,2%), seguido pelo Sudeste/Centro-Oeste (-2%) e Norte (-4%). [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Nordeste Ã© exceÃ§Ã£o, com alta de 15% em relaÃ§Ã£o Ã  semana anterior</em></p>
+<p>O PreÃ§o de LiquidaÃ§Ã£o das DiferenÃ§as (PLD), utilizado como referÃªncia para a contrataÃ§Ã£o de energia no mercado livre, diminuiu em trÃªs submercados para a terceira semana de junho. O Sul teve a queda mais discreta (-0,2%), seguido pelo Sudeste/Centro-Oeste (-2%) e Norte (-4%). O Nordeste, por outro lado, teve alta de 15% no preÃ§o da energia Ã  vista. Deve haver queda nos nÃ­veis dos reservatÃ³rios de usinas hidrelÃ©tricas do submercado atÃ© o fim do mÃªs, acentuada pelo baixo volume de vazÃµes dos rios.</p>
+<p>O cÃ¡lculo semanal do PLD Ã© impactado pelo nÃ­vel dos reservatÃ³rios de usinas hidrelÃ©tricas e pelo aumento ou diminuiÃ§Ã£o no consumo de energia em cada submercado do paÃ­s.</p>
+<div id="attachment_5591" style="width: 860px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/PLD_TABELA.jpg"><img class=" wp-image-5591" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/PLD_TABELA.jpg" alt="Fonte: PLD: CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE) / PLD mÃ©dio: PonderaÃ§Ã£o Comerc Energia 1. PLD mÃ©dio 1 Ã© a mÃ©dia ponderada dos valores jÃ¡ divulgados do PLD, pelas horas das semanas publicadas. 2. PLD mÃ©dio 2 supondo que o Ãºltimo PLD publicado se estenda atÃ© o Ãºltimo dia de junho de 2016" width="850" height="150" /></a><p class="wp-caption-text">Fonte: PLD: CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE) / PLD mÃ©dio: PonderaÃ§Ã£o Comerc Energia<br />1. PLD mÃ©dio 1 Ã© a mÃ©dia ponderada dos valores jÃ¡ divulgados do PLD, pelas horas das semanas publicadas.<br />2. PLD mÃ©dio 2 supondo que o Ãºltimo PLD publicado se estenda atÃ© o Ãºltimo dia de junho de 2016</p></div>
+<div id="attachment_5597" style="width: 843px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Capturar.jpg"><img class=" wp-image-5597" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Capturar.jpg" alt="Fonte: CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE)" width="833" height="483" /></a><p class="wp-caption-text">Fonte: CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE)</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5590</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nordeste: reservatÃ³rios devem cair mais atÃ© o fim do mÃªs</title>
+		<link>http://www.panoramacomerc.com.br/?p=5586</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5586#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:45:50 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[NÃ­vel dos ReservatÃ³rios]]></category>
+		<category><![CDATA[Panorama]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5586</guid>
+		<description><![CDATA[Submercado tem o menor volume de vazÃµes de todo o sistema Os nÃ­veis dos reservatÃ³rios das usinas hidrelÃ©tricas do submercado Nordeste devem cair para 27,5% atÃ© o fim de junho. A projeÃ§Ã£o Ã© do Operador Nacional do Sistema (ONS) e indica o nÃ­vel mais baixo de todo o paÃ­s. A Energia Natural Afluente (ENA) acumulada, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Submercado tem o menor volume de vazÃµes de todo o sistema</em></p>
+<p>Os nÃ­veis dos reservatÃ³rios das usinas hidrelÃ©tricas do submercado Nordeste devem cair para 27,5% atÃ© o fim de junho. A projeÃ§Ã£o Ã© do Operador Nacional do Sistema (ONS) e indica o nÃ­vel mais baixo de todo o paÃ­s. A Energia Natural Afluente (ENA) acumulada, que mede a quantidade de Ã¡gua que pode chegar aos reservatÃ³rios, representa atualmente apenas 31% da MÃ©dia de Longo Termo (MLT) no Nordeste.</p>
+<div id="attachment_5587" style="width: 822px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/RESERVATORIOS.jpg"><img class=" wp-image-5587" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/RESERVATORIOS.jpg" alt="Fonte: Operador Nacional do Sistema (ONS) " width="812" height="343" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+<div id="attachment_5588" style="width: 824px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_ACUMULADA1.jpg"><img class=" wp-image-5588" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_ACUMULADA1.jpg" alt="Fonte: Operador Nacional do Sistema (ONS) " width="814" height="347" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5586</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VazÃµes no Sudeste/Centro-Oeste devem superar a mÃ©dia histÃ³rica</title>
+		<link>http://www.panoramacomerc.com.br/?p=5578</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5578#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:43:14 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[VazÃ£o nos rios]]></category>
+		<category><![CDATA[NÃ­vel de VazÃµes]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5578</guid>
+		<description><![CDATA[ONS projeta ENA acumulada de 125% da MLT atÃ© o fim de junhoÂ  O Operador Nacional do Sistema (ONS) divulgou a segunda revisÃ£o da estimativa de volume de vazÃµes por submercado atÃ© o fim de junho. O Sudeste/Centro-Oeste deve ter o melhor desempenho, com volume acumulado de 125% da MÃ©dia de Longo Termo (MLT). O [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>ONS projeta ENA acumulada de 125% da MLT atÃ© o fim de junho</em><em>Â </em></p>
+<p>O Operador Nacional do Sistema (ONS) divulgou a segunda revisÃ£o da estimativa de volume de vazÃµes por submercado atÃ© o fim de junho. O Sudeste/Centro-Oeste deve ter o melhor desempenho, com volume acumulado de 125% da MÃ©dia de Longo Termo (MLT). O volume mais baixo deve ocorrer no Nordeste, com apenas 33% da mÃ©dia histÃ³rica.</p>
+<div id="attachment_5584" style="width: 704px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_JUNHO.png"><img class=" wp-image-5584" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_JUNHO.png" alt="Fonte: Operador Nacional do Sistema (ONS) " width="694" height="333" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5578</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meteorologia da semana de 11 a 17 de junho</title>
+		<link>http://www.panoramacomerc.com.br/?p=5574</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5574#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[PrevisÃ£o do tempo]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5574</guid>
+		<description><![CDATA[Segundo as previsÃµes meteorolÃ³gicas, deve chover entre Santa Catarina e Rio Grande do Sul. O Sudeste/Centro-Oeste e o Nordeste devem apresentar tempo seco, enquanto o Sul deve ter chuvas fortes nas bacias do Uruguai e IguaÃ§u. JÃ¡ o submercado Norte deve ter chuvas prÃ³ximo a TucuruÃ­. A figura abaixo mostra os valores da precipitaÃ§Ã£o observada [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Segundo as previsÃµes meteorolÃ³gicas, deve chover entre Santa Catarina e Rio Grande do Sul. O Sudeste/Centro-Oeste e o Nordeste devem apresentar tempo seco, enquanto o Sul deve ter chuvas fortes nas bacias do Uruguai e IguaÃ§u. JÃ¡ o submercado Norte deve ter chuvas prÃ³ximo a TucuruÃ­.</p>
+<div id="attachment_5575" style="width: 346px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_11.jpg"><img class=" wp-image-5575" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_11.jpg" alt="Fonte: Centro de PrevisÃ£o de Tempo e Estudos ClimÃ¡tico/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)" width="336" height="389" /></a><p class="wp-caption-text">Fonte: Centro de PrevisÃ£o de Tempo e Estudos ClimÃ¡tico/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)</p></div>
+<p>A figura abaixo mostra os valores da precipitaÃ§Ã£o observada para a semana operativa do Operador Nacional do Sistema (ONS) de 04/06/2016 a 10/06/2016. Observa-se que as chuvas se concentraram nas regiÃµes Norte, nos Estados de SÃ£o Paulo, Mato Grosso do Sul e ParanÃ¡ e na costa leste do Nordeste. O Sudeste/Centro-Oeste teve chuvas fracas na bacia do rio Madeira e chuvas fortes nas bacias do Grande, ParanaÃ­ba, TietÃª, na regiÃ£o incremental a Itaipu e na bacia do Paranapanema. Os submercados Sul e Nordeste apresentaram tempo seco. JÃ¡ no submercado Norte, as chuvas se concentraram ao norte do Estado de Tocantins.</p>
+<div id="attachment_5576" style="width: 336px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_21.jpg"><img class=" wp-image-5576" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_21.jpg" alt="Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)" width="326" height="334" /></a><p class="wp-caption-text">Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5574</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 passos para entrar no mercado livre de energia</title>
+		<link>http://www.panoramacomerc.com.br/?p=5572</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5572#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:29:15 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5572</guid>
+		<description><![CDATA[Procura por migraÃ§Ãµes aumentou 81% desde o ano passado Ã‰ cada vez maior a procura de empresas pelo mercado livre de energia, atraÃ­das pela reduÃ§Ã£o de custos, previsibilidade de orÃ§amento e uso de energias renovÃ¡veis incentivadas pelo governo. AtÃ© maio, havia mais de mil processos de adesÃ£o na CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE), [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Procura por migraÃ§Ãµes aumentou 81% desde o ano passado</em></p>
+<p>Ã‰ cada vez maior a procura de empresas pelo mercado livre de energia, atraÃ­das pela reduÃ§Ã£o de custos, previsibilidade de orÃ§amento e uso de energias renovÃ¡veis incentivadas pelo governo. AtÃ© maio, havia mais de mil processos de adesÃ£o na CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE), o que deve levar o mercado livre Ã  marca de 3.221 consumidores atÃ© o fim do ano, com <a href="http://www.panoramacomerc.com.br/?p=5465">crescimento de 81%</a> desde janeiro de 2015. ConheÃ§a o passo a passo para entrar no mercado livre ou, ainda, migrar novas unidades da sua empresa, caso jÃ¡ seja um consumidor livre ou especial:</p>
+<p><strong>1) Saiba se sua empresa Ã© elegÃ­vel para migrar para o mercado livre</strong></p>
+<p>Pelas regras atuais, Ã© necessÃ¡rio ter demanda contratada maior do que 3.000 kW para ser um consumidor livre, que pode contratar energia de qualquer fonte. JÃ¡ as empresas com demanda entre 500 kW e 3.000 kW podem ser consumidores especiais, uma categoria que pode participar do mercado livre com a condiÃ§Ã£o de contratar as chamadas fontes incentivadas â€“ como eÃ³lica, solar, PCH e biomassa â€“, com o benefÃ­cio de descontos de 50% a 100% nas tarifas de uso do sistema.</p>
+<p><strong>2) ConheÃ§a os benefÃ­cios da migraÃ§Ã£o</strong></p>
+<p>Atualmente, entrando no mercado livre, o consumidor tem trÃªs grandes ganhos. O primeiro Ã© a reduÃ§Ã£o mÃ©dia de 20% a 30% no custo com energia, obtida pela negociaÃ§Ã£o com geradoras e comercializadoras. Outro ganho Ã© a previsibilidade do orÃ§amento, pois, nesse mercado, o consumidor assina um contrato que determina qual serÃ¡ o preÃ§o pago pela energia, o prazo e o Ã­ndice de reajuste. E o terceiro benefÃ­cio Ã© a oportunidade de escolher qual tipo de energia comprar, incluindo as fontes renovÃ¡veis incentivadas pelo governo. Desta forma, o consumidor colabora para reduzir os impactos ambientais causados por fontes poluentes.</p>
+<p><strong>3) AviseÂ a distribuidora a respeito da sua intenÃ§Ã£o de migrar para o mercado livre</strong></p>
+<p>Esse processo Ã© conhecido no mercado como â€œdenÃºnciaâ€�.Â  A distribuidora de energia da sua regiÃ£o receberÃ¡ a carta solicitando o encerramento do seu contrato atual para que possa ser feita a migraÃ§Ã£o para o mercado livre. Ela terÃ¡ seis meses para concluir os processos burocrÃ¡ticos e finalizar o vÃ­nculo contratual.</p>
+<p><strong>4) Inicie o processo de adesÃ£o Ã  CCEE</strong></p>
+<p>Uma vez definido o mÃªs de migraÃ§Ã£o para o mercado livre, Ã© imediatamente iniciado o processo de adesÃ£o Ã  CÃ¢mara de ComercializaÃ§Ã£o de Energia ElÃ©trica (CCEE). Todos os agentes do mercado livre devem estar cadastrados na CCEE. Ã‰ recomendÃ¡vel que o agente tenha uma representaÃ§Ã£o profissional, que auxiliarÃ¡ no entendimento e na conduÃ§Ã£o de processos burocrÃ¡ticos da CÃ¢mara.</p>
+<p><strong>5) Negocie o custo da energia</strong></p>
+<p>Neste momento, jÃ¡ serÃ¡ possÃ­vel negociar o custo de compra da energia diretamente com um gerador ou com uma comercializadora, geralmente com o auxÃ­lio de uma empresa especializada, responsÃ¡vel por analisar as condiÃ§Ãµes mercadolÃ³gicas e assessorar a tomada de decisÃ£o. HaverÃ¡ a assinatura do contrato de energiaÂ e a apresentaÃ§Ã£o da respectiva garantia financeira. Nesta etapa, vocÃª tambÃ©m vai assinar contratos especÃ­ficos para conexÃ£o e uso dos serviÃ§os de transmissÃ£o e distribuiÃ§Ã£o (CCD e CUSD), que fazem o transporte da energia entre o gerador e o consumidor. Ao contrÃ¡rio da compra de energia, os preÃ§os destes outros serviÃ§os nÃ£o podem ser negociados livremente e permanecem com tarifas reguladas pela ANEEL.</p>
+<p><strong>6) Providencie as adequaÃ§Ãµes fÃ­sicas</strong></p>
+<p>Com a parte burocrÃ¡tica em ordem, Ã© necessÃ¡rio providenciar as adequaÃ§Ãµes fÃ­sicas no local do consumo de energia. A primeira medida Ã© contratar uma empresa credenciada pela distribuidora de energia local para fazer a AdequaÃ§Ã£o do Sistema de MediÃ§Ã£o de Faturamento (SMF), que vai registrar o consumo da sua empresa. Outra medida serÃ¡ a instalaÃ§Ã£o de Aparelho de Telemetria para acompanhamento da mediÃ§Ã£o por seu gestor de energia.</p>
+<p><strong>7) Cuide da gestÃ£o do contrato de energia</strong></p>
+<p>Ã‰ importante notar que o montante de energia inicialmente contratado no mercado livre seguiu uma estimativa de consumo mensal da sua empresa. Na apuraÃ§Ã£o mensal, eventuais sobras ou faltas pontuais de energia poderÃ£o ser negociadas no mercado Ã  vista.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5572</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Energy bills may go up in the country</title>
+		<link>http://www.panoramacomerc.com.br/?p=5566</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5566#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:39:04 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5566</guid>
+		<description><![CDATA[Unfavorable hydrology could require switching on thermal plants, which would change the color of the rate flagÂ  CMSE, the committee that monitors the electricity sector, published a note stating that it may need to continue dispatching thermal plants in the North and Northeast due to the low level of hydro plant reservoirs. The more energy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Unfavorable hydrology could require switching on thermal plants, which would change the color of the rate flag</em><em>Â </em></p>
+<p>CMSE, the committee that monitors the electricity sector, published a note stating that it may need to continue dispatching thermal plants in the North and Northeast due to the low level of hydro plant reservoirs. The more energy comes from thermal plants, the higher the cost to produce energy, which in turn may lead to a change in the color of the <a href="http://www.panoramacomerc.com.br/?p=4767">rate flag</a> that applies to the regulated market in Brazil. On the other hand, in the South, Southeast and Middle-West, the CMSE announce it would switch off thermal plants in operation outside the order of merit, starting on June 4 2016. This information was disclosed after the CMSE meeting of June 1.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5566</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The price of energy in the free market dropped all over the country</title>
+		<link>http://www.panoramacomerc.com.br/?p=5564</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5564#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:37:04 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5564</guid>
+		<description><![CDATA[The largest drops were in the North and NortheastÂ  The spot price (price for settling differences or PLD), the reference price for contracting power in the free market, dropped in all sub-markets in the second week of June. The most significant drops were in the North (37%), where the price reached R$ 90,74/MWh, and in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>The largest drops were in the North and Northeast</em><em>Â </em></p>
+<p>The spot price (price for settling differences or PLD), the reference price for contracting power in the free market, dropped in all sub-markets in the second week of June. The most significant drops were in the North (37%), where the price reached R$ 90,74/MWh, and in the Northeast (21%), where the PLD for the second week of June was R$ 113,72/MWh. In both cases the expectation is that less energy will be used this month, allowing hydro plant reservoirs to remain stable, thus driving down the price of energy. The PLD in the South was R$ 50,34/MWh, a 10% drop and in the Southeast/Middle-West it was set at R$ 59,54/MWh, slightly below the previous week.</p>
+<div id="attachment_5543" style="width: 786px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_PLD1.jpg"><img class=" wp-image-5543" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_PLD1.jpg" alt="Source: PLD: CCEE (Electric Energy Trading Chamber)/Average PLD Weighted by Comerc Energia 1. The average PLD1 is the weighted average of the published PLD weighted by the hours in the week. 2. Average PLD 2 assuming the latest published PLD will last until the last day of June 2016" width="776" height="137" /></a><p class="wp-caption-text">Source: PLD: CCEE (Electric Energy Trading Chamber)/Average PLD Weighted by Comerc Energia<br />1. The average PLD1 is the weighted average of the published PLD weighted by the hours in the week.<br />2. Average PLD 2 assuming the latest published PLD will last until the last day of June 2016</p></div>
+<div id="attachment_5544" style="width: 705px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_pld.png"><img class="size-full wp-image-5544" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_pld.png" alt="Source: CCEE (Electric Energy Trading Chamber)" width="695" height="372" /></a><p class="wp-caption-text">Source: CCEE (Electric Energy Trading Chamber)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5564</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Record drought in the North should continue in June</title>
+		<link>http://www.panoramacomerc.com.br/?p=5562</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5562#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:33:35 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5562</guid>
+		<description><![CDATA[Flow and reservoirs should be the lowest they have been in the past 15 years at this time of year After a record-breaking drop in the level of hydro plant reservoirs for the month of May, the North sub-market should see another record-breaking drop this month. Data from the National System Operator (ONS) shows reservoirs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Flow and reservoirs should be the lowest they have been in the past 15 years at this time of year</em></p>
+<p>After <a href="http://www.panoramacomerc.com.br/?p=5486">a record-breaking drop in the level of hydro plant reservoirs for the month of May</a>, the North sub-market should see another record-breaking drop this month. Data from the National System Operator (ONS) shows reservoirs in the region dropping to 63% of their capacity by the end of June, with flows at only 44% of the long-term average. Should these numbers be confirmed, they will be the lowest for any month of June in the past 15 years.</p>
+<p>The North has been exporting smaller and smaller amounts of energy to other sub-markets. With a possible worsening of the current scenario, it is not impossible that soon the North will see itself importing energy from other sub-markets. This will require greater exchange of energy between the North and the Southeast/Middle-West. For this reason the CMSE is considering switching on the thermal plants in the region.</p>
+<div id="attachment_5538" style="width: 788px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_ena.jpg"><img class=" wp-image-5538" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_ena.jpg" alt="Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS" width="778" height="215" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS</p></div>
+<div id="attachment_5539" style="width: 787px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_ena.jpg"><img class=" wp-image-5539" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_ena.jpg" alt="Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS" width="777" height="393" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5562</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weather for the week of June 4 to 10</title>
+		<link>http://www.panoramacomerc.com.br/?p=5560</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5560#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:31:26 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5560</guid>
+		<description><![CDATA[Weather reports call for rain between the North of Rio Grande do Sul and Southern Minas Gerais and Mato Grosso do Sul. Heavy rain is expected in the Parananapanema, TietÃª and Grande basins, and the incremental Itaipu region. In the South it should rain hard in the Uruguai and IguaÃ§u basins. Meanwhile the North and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Weather reports call for rain between the North of Rio Grande do Sul and Southern Minas Gerais and Mato Grosso do Sul. Heavy rain is expected in the Parananapanema, TietÃª and Grande basins, and the incremental Itaipu region. In the South it should rain hard in the Uruguai and IguaÃ§u basins. Meanwhile the North and Northeast should remain dry.</p>
+<div id="attachment_5533" style="width: 305px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Figura1_meteorologia.png"><img class=" wp-image-5533" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Figura1_meteorologia.png" alt="Fonte: Centro de PrevisÃ£o de Tempo e Estudos ClimÃ¡tico/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)." width="295" height="329" /></a><p class="wp-caption-text">Fonte: Centro de PrevisÃ£o de Tempo e Estudos ClimÃ¡tico/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS).</p></div>
+<p>Light rain fell in the Madeira basin, and heavy rain in the Grande, ParanaÃ­ba and TietÃª basins, in the incremental Itaipu region, in the Paranapanema river basin. The South had strong rain in the Uruguai and IguaÃ§u basins. The weather was dry in the SÃ£o Francisco river basin, representative of weather in the Northeast of the country. Most of the rain in the Tocantins river basin (North sub-system) fell in the north of the state of Tocantins.</p>
+<div id="attachment_5534" style="width: 313px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_meteorologia.jpg"><img class=" wp-image-5534" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_meteorologia.jpg" alt="Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)." width="303" height="310" /></a><p class="wp-caption-text">Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA).</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5560</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Comerc</title>
+	<atom:link href="http://www.panoramacomerc.com.br/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.panoramacomerc.com.br</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 14 Jun 2016 19:14:59 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.2</generator>
+	<item>
+		<title>ANEEL reduz cobrança de CDE em 2016</title>
+		<link>http://www.panoramacomerc.com.br/?p=5599</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5599#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Energia em pílulas]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5599</guid>
+		<description><![CDATA[Consumidores de energia terão desconto de 8,45% no encargo A Agência Nacional de Energia Elétrica (ANEEL) anunciou redução noorçamento da Conta de Desenvolvimento Energético (CDE) em 2016. A diminuição é de R$ 1,094 bilhão, o que equivale a cerca de 8,45% da cota paga pelos consumidores. A decisão foi anunciada na 20ª Reunião Pública Ordinária [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Consumidores de energia terão desconto de 8,45% no encargo</em></p>
+<p>A Agência Nacional de Energia Elétrica (ANEEL) anunciou redução noorçamento da Conta de Desenvolvimento Energético (CDE) em 2016<strong>. A diminuição é de R$ 1,094 bilhão, o que equivale a cerca de 8,45% da cota paga pelos consumidores.</strong> A decisão foi anunciada na 20ª Reunião Pública Ordinária da Agência, realizada em 08/06/16. A decisão impacta todos os consumidores de energia, tantos os livres e especiais quanto os cativos.</p>
+<p>A CDE é um encargo cobrado na conta de energia de todos os consumidores do país. Os recursos arrecadados são destinados a diversos fins, como bancar descontos na conta de energia para população de baixa renda, custear a geração de energia nos sistemas elétricos isolados, pagar indenizações de concessões, entre outros.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5599</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PLD volta a cair em quase todo o país</title>
+		<link>http://www.panoramacomerc.com.br/?p=5590</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5590#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:52:49 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[PLD]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5590</guid>
+		<description><![CDATA[Nordeste é exceção, com alta de 15% em relação à semana anterior O Preço de Liquidação das Diferenças (PLD), utilizado como referência para a contratação de energia no mercado livre, diminuiu em três submercados para a terceira semana de junho. O Sul teve a queda mais discreta (-0,2%), seguido pelo Sudeste/Centro-Oeste (-2%) e Norte (-4%). [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Nordeste é exceção, com alta de 15% em relação à semana anterior</em></p>
+<p>O Preço de Liquidação das Diferenças (PLD), utilizado como referência para a contratação de energia no mercado livre, diminuiu em três submercados para a terceira semana de junho. O Sul teve a queda mais discreta (-0,2%), seguido pelo Sudeste/Centro-Oeste (-2%) e Norte (-4%). O Nordeste, por outro lado, teve alta de 15% no preço da energia à vista. Deve haver queda nos níveis dos reservatórios de usinas hidrelétricas do submercado até o fim do mês, acentuada pelo baixo volume de vazões dos rios.</p>
+<p>O cálculo semanal do PLD é impactado pelo nível dos reservatórios de usinas hidrelétricas e pelo aumento ou diminuição no consumo de energia em cada submercado do país.</p>
+<div id="attachment_5591" style="width: 860px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/PLD_TABELA.jpg"><img class=" wp-image-5591" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/PLD_TABELA.jpg" alt="Fonte: PLD: Câmara de Comercialização de Energia Elétrica (CCEE) / PLD médio: Ponderação Comerc Energia 1. PLD médio 1 é a média ponderada dos valores já divulgados do PLD, pelas horas das semanas publicadas. 2. PLD médio 2 supondo que o último PLD publicado se estenda até o último dia de junho de 2016" width="850" height="150" /></a><p class="wp-caption-text">Fonte: PLD: Câmara de Comercialização de Energia Elétrica (CCEE) / PLD médio: Ponderação Comerc Energia<br />1. PLD médio 1 é a média ponderada dos valores já divulgados do PLD, pelas horas das semanas publicadas.<br />2. PLD médio 2 supondo que o último PLD publicado se estenda até o último dia de junho de 2016</p></div>
+<div id="attachment_5597" style="width: 843px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Capturar.jpg"><img class=" wp-image-5597" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Capturar.jpg" alt="Fonte: Câmara de Comercialização de Energia Elétrica (CCEE)" width="833" height="483" /></a><p class="wp-caption-text">Fonte: Câmara de Comercialização de Energia Elétrica (CCEE)</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5590</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nordeste: reservatórios devem cair mais até o fim do mês</title>
+		<link>http://www.panoramacomerc.com.br/?p=5586</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5586#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:45:50 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Nível dos Reservatórios]]></category>
+		<category><![CDATA[Panorama]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5586</guid>
+		<description><![CDATA[Submercado tem o menor volume de vazões de todo o sistema Os níveis dos reservatórios das usinas hidrelétricas do submercado Nordeste devem cair para 27,5% até o fim de junho. A projeção é do Operador Nacional do Sistema (ONS) e indica o nível mais baixo de todo o país. A Energia Natural Afluente (ENA) acumulada, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Submercado tem o menor volume de vazões de todo o sistema</em></p>
+<p>Os níveis dos reservatórios das usinas hidrelétricas do submercado Nordeste devem cair para 27,5% até o fim de junho. A projeção é do Operador Nacional do Sistema (ONS) e indica o nível mais baixo de todo o país. A Energia Natural Afluente (ENA) acumulada, que mede a quantidade de água que pode chegar aos reservatórios, representa atualmente apenas 31% da Média de Longo Termo (MLT) no Nordeste.</p>
+<div id="attachment_5587" style="width: 822px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/RESERVATORIOS.jpg"><img class=" wp-image-5587" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/RESERVATORIOS.jpg" alt="Fonte: Operador Nacional do Sistema (ONS) " width="812" height="343" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+<div id="attachment_5588" style="width: 824px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_ACUMULADA1.jpg"><img class=" wp-image-5588" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_ACUMULADA1.jpg" alt="Fonte: Operador Nacional do Sistema (ONS) " width="814" height="347" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5586</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vazões no Sudeste/Centro-Oeste devem superar a média histórica</title>
+		<link>http://www.panoramacomerc.com.br/?p=5578</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5578#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:43:14 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[Vazão nos rios]]></category>
+		<category><![CDATA[Nível de Vazões]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5578</guid>
+		<description><![CDATA[ONS projeta ENA acumulada de 125% da MLT até o fim de junho  O Operador Nacional do Sistema (ONS) divulgou a segunda revisão da estimativa de volume de vazões por submercado até o fim de junho. O Sudeste/Centro-Oeste deve ter o melhor desempenho, com volume acumulado de 125% da Média de Longo Termo (MLT). O [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>ONS projeta ENA acumulada de 125% da MLT até o fim de junho</em><em> </em></p>
+<p>O Operador Nacional do Sistema (ONS) divulgou a segunda revisão da estimativa de volume de vazões por submercado até o fim de junho. O Sudeste/Centro-Oeste deve ter o melhor desempenho, com volume acumulado de 125% da Média de Longo Termo (MLT). O volume mais baixo deve ocorrer no Nordeste, com apenas 33% da média histórica.</p>
+<div id="attachment_5584" style="width: 704px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_JUNHO.png"><img class=" wp-image-5584" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/ENA_JUNHO.png" alt="Fonte: Operador Nacional do Sistema (ONS) " width="694" height="333" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5578</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meteorologia da semana de 11 a 17 de junho</title>
+		<link>http://www.panoramacomerc.com.br/?p=5574</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5574#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+		<category><![CDATA[Previsão do tempo]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5574</guid>
+		<description><![CDATA[Segundo as previsões meteorológicas, deve chover entre Santa Catarina e Rio Grande do Sul. O Sudeste/Centro-Oeste e o Nordeste devem apresentar tempo seco, enquanto o Sul deve ter chuvas fortes nas bacias do Uruguai e Iguaçu. Já o submercado Norte deve ter chuvas próximo a Tucuruí. A figura abaixo mostra os valores da precipitação observada [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Segundo as previsões meteorológicas, deve chover entre Santa Catarina e Rio Grande do Sul. O Sudeste/Centro-Oeste e o Nordeste devem apresentar tempo seco, enquanto o Sul deve ter chuvas fortes nas bacias do Uruguai e Iguaçu. Já o submercado Norte deve ter chuvas próximo a Tucuruí.</p>
+<div id="attachment_5575" style="width: 346px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_11.jpg"><img class=" wp-image-5575" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_11.jpg" alt="Fonte: Centro de Previsão de Tempo e Estudos Climático/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)" width="336" height="389" /></a><p class="wp-caption-text">Fonte: Centro de Previsão de Tempo e Estudos Climático/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)</p></div>
+<p>A figura abaixo mostra os valores da precipitação observada para a semana operativa do Operador Nacional do Sistema (ONS) de 04/06/2016 a 10/06/2016. Observa-se que as chuvas se concentraram nas regiões Norte, nos Estados de São Paulo, Mato Grosso do Sul e Paraná e na costa leste do Nordeste. O Sudeste/Centro-Oeste teve chuvas fracas na bacia do rio Madeira e chuvas fortes nas bacias do Grande, Paranaíba, Tietê, na região incremental a Itaipu e na bacia do Paranapanema. Os submercados Sul e Nordeste apresentaram tempo seco. Já no submercado Norte, as chuvas se concentraram ao norte do Estado de Tocantins.</p>
+<div id="attachment_5576" style="width: 336px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_21.jpg"><img class=" wp-image-5576" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/METEOROLOGIA_21.jpg" alt="Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)" width="326" height="334" /></a><p class="wp-caption-text">Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5574</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 passos para entrar no mercado livre de energia</title>
+		<link>http://www.panoramacomerc.com.br/?p=5572</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5572#comments</comments>
+		<pubDate>Tue, 14 Jun 2016 18:29:15 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[Panorama]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5572</guid>
+		<description><![CDATA[Procura por migrações aumentou 81% desde o ano passado É cada vez maior a procura de empresas pelo mercado livre de energia, atraídas pela redução de custos, previsibilidade de orçamento e uso de energias renováveis incentivadas pelo governo. Até maio, havia mais de mil processos de adesão na Câmara de Comercialização de Energia Elétrica (CCEE), [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Procura por migrações aumentou 81% desde o ano passado</em></p>
+<p>É cada vez maior a procura de empresas pelo mercado livre de energia, atraídas pela redução de custos, previsibilidade de orçamento e uso de energias renováveis incentivadas pelo governo. Até maio, havia mais de mil processos de adesão na Câmara de Comercialização de Energia Elétrica (CCEE), o que deve levar o mercado livre à marca de 3.221 consumidores até o fim do ano, com <a href="http://www.panoramacomerc.com.br/?p=5465">crescimento de 81%</a> desde janeiro de 2015. Conheça o passo a passo para entrar no mercado livre ou, ainda, migrar novas unidades da sua empresa, caso já seja um consumidor livre ou especial:</p>
+<p><strong>1) Saiba se sua empresa é elegível para migrar para o mercado livre</strong></p>
+<p>Pelas regras atuais, é necessário ter demanda contratada maior do que 3.000 kW para ser um consumidor livre, que pode contratar energia de qualquer fonte. Já as empresas com demanda entre 500 kW e 3.000 kW podem ser consumidores especiais, uma categoria que pode participar do mercado livre com a condição de contratar as chamadas fontes incentivadas – como eólica, solar, PCH e biomassa –, com o benefício de descontos de 50% a 100% nas tarifas de uso do sistema.</p>
+<p><strong>2) Conheça os benefícios da migração</strong></p>
+<p>Atualmente, entrando no mercado livre, o consumidor tem três grandes ganhos. O primeiro é a redução média de 20% a 30% no custo com energia, obtida pela negociação com geradoras e comercializadoras. Outro ganho é a previsibilidade do orçamento, pois, nesse mercado, o consumidor assina um contrato que determina qual será o preço pago pela energia, o prazo e o índice de reajuste. E o terceiro benefício é a oportunidade de escolher qual tipo de energia comprar, incluindo as fontes renováveis incentivadas pelo governo. Desta forma, o consumidor colabora para reduzir os impactos ambientais causados por fontes poluentes.</p>
+<p><strong>3) Avise a distribuidora a respeito da sua intenção de migrar para o mercado livre</strong></p>
+<p>Esse processo é conhecido no mercado como “denúncia”.  A distribuidora de energia da sua região receberá a carta solicitando o encerramento do seu contrato atual para que possa ser feita a migração para o mercado livre. Ela terá seis meses para concluir os processos burocráticos e finalizar o vínculo contratual.</p>
+<p><strong>4) Inicie o processo de adesão à CCEE</strong></p>
+<p>Uma vez definido o mês de migração para o mercado livre, é imediatamente iniciado o processo de adesão à Câmara de Comercialização de Energia Elétrica (CCEE). Todos os agentes do mercado livre devem estar cadastrados na CCEE. É recomendável que o agente tenha uma representação profissional, que auxiliará no entendimento e na condução de processos burocráticos da Câmara.</p>
+<p><strong>5) Negocie o custo da energia</strong></p>
+<p>Neste momento, já será possível negociar o custo de compra da energia diretamente com um gerador ou com uma comercializadora, geralmente com o auxílio de uma empresa especializada, responsável por analisar as condições mercadológicas e assessorar a tomada de decisão. Haverá a assinatura do contrato de energia e a apresentação da respectiva garantia financeira. Nesta etapa, você também vai assinar contratos específicos para conexão e uso dos serviços de transmissão e distribuição (CCD e CUSD), que fazem o transporte da energia entre o gerador e o consumidor. Ao contrário da compra de energia, os preços destes outros serviços não podem ser negociados livremente e permanecem com tarifas reguladas pela ANEEL.</p>
+<p><strong>6) Providencie as adequações físicas</strong></p>
+<p>Com a parte burocrática em ordem, é necessário providenciar as adequações físicas no local do consumo de energia. A primeira medida é contratar uma empresa credenciada pela distribuidora de energia local para fazer a Adequação do Sistema de Medição de Faturamento (SMF), que vai registrar o consumo da sua empresa. Outra medida será a instalação de Aparelho de Telemetria para acompanhamento da medição por seu gestor de energia.</p>
+<p><strong>7) Cuide da gestão do contrato de energia</strong></p>
+<p>É importante notar que o montante de energia inicialmente contratado no mercado livre seguiu uma estimativa de consumo mensal da sua empresa. Na apuração mensal, eventuais sobras ou faltas pontuais de energia poderão ser negociadas no mercado à vista.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5572</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Energy bills may go up in the country</title>
+		<link>http://www.panoramacomerc.com.br/?p=5566</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5566#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:39:04 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5566</guid>
+		<description><![CDATA[Unfavorable hydrology could require switching on thermal plants, which would change the color of the rate flag  CMSE, the committee that monitors the electricity sector, published a note stating that it may need to continue dispatching thermal plants in the North and Northeast due to the low level of hydro plant reservoirs. The more energy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Unfavorable hydrology could require switching on thermal plants, which would change the color of the rate flag</em><em> </em></p>
+<p>CMSE, the committee that monitors the electricity sector, published a note stating that it may need to continue dispatching thermal plants in the North and Northeast due to the low level of hydro plant reservoirs. The more energy comes from thermal plants, the higher the cost to produce energy, which in turn may lead to a change in the color of the <a href="http://www.panoramacomerc.com.br/?p=4767">rate flag</a> that applies to the regulated market in Brazil. On the other hand, in the South, Southeast and Middle-West, the CMSE announce it would switch off thermal plants in operation outside the order of merit, starting on June 4 2016. This information was disclosed after the CMSE meeting of June 1.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5566</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The price of energy in the free market dropped all over the country</title>
+		<link>http://www.panoramacomerc.com.br/?p=5564</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5564#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:37:04 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5564</guid>
+		<description><![CDATA[The largest drops were in the North and Northeast  The spot price (price for settling differences or PLD), the reference price for contracting power in the free market, dropped in all sub-markets in the second week of June. The most significant drops were in the North (37%), where the price reached R$ 90,74/MWh, and in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>The largest drops were in the North and Northeast</em><em> </em></p>
+<p>The spot price (price for settling differences or PLD), the reference price for contracting power in the free market, dropped in all sub-markets in the second week of June. The most significant drops were in the North (37%), where the price reached R$ 90,74/MWh, and in the Northeast (21%), where the PLD for the second week of June was R$ 113,72/MWh. In both cases the expectation is that less energy will be used this month, allowing hydro plant reservoirs to remain stable, thus driving down the price of energy. The PLD in the South was R$ 50,34/MWh, a 10% drop and in the Southeast/Middle-West it was set at R$ 59,54/MWh, slightly below the previous week.</p>
+<div id="attachment_5543" style="width: 786px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_PLD1.jpg"><img class=" wp-image-5543" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_PLD1.jpg" alt="Source: PLD: CCEE (Electric Energy Trading Chamber)/Average PLD Weighted by Comerc Energia 1. The average PLD1 is the weighted average of the published PLD weighted by the hours in the week. 2. Average PLD 2 assuming the latest published PLD will last until the last day of June 2016" width="776" height="137" /></a><p class="wp-caption-text">Source: PLD: CCEE (Electric Energy Trading Chamber)/Average PLD Weighted by Comerc Energia<br />1. The average PLD1 is the weighted average of the published PLD weighted by the hours in the week.<br />2. Average PLD 2 assuming the latest published PLD will last until the last day of June 2016</p></div>
+<div id="attachment_5544" style="width: 705px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_pld.png"><img class="size-full wp-image-5544" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_pld.png" alt="Source: CCEE (Electric Energy Trading Chamber)" width="695" height="372" /></a><p class="wp-caption-text">Source: CCEE (Electric Energy Trading Chamber)</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5564</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Record drought in the North should continue in June</title>
+		<link>http://www.panoramacomerc.com.br/?p=5562</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5562#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:33:35 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5562</guid>
+		<description><![CDATA[Flow and reservoirs should be the lowest they have been in the past 15 years at this time of year After a record-breaking drop in the level of hydro plant reservoirs for the month of May, the North sub-market should see another record-breaking drop this month. Data from the National System Operator (ONS) shows reservoirs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Flow and reservoirs should be the lowest they have been in the past 15 years at this time of year</em></p>
+<p>After <a href="http://www.panoramacomerc.com.br/?p=5486">a record-breaking drop in the level of hydro plant reservoirs for the month of May</a>, the North sub-market should see another record-breaking drop this month. Data from the National System Operator (ONS) shows reservoirs in the region dropping to 63% of their capacity by the end of June, with flows at only 44% of the long-term average. Should these numbers be confirmed, they will be the lowest for any month of June in the past 15 years.</p>
+<p>The North has been exporting smaller and smaller amounts of energy to other sub-markets. With a possible worsening of the current scenario, it is not impossible that soon the North will see itself importing energy from other sub-markets. This will require greater exchange of energy between the North and the Southeast/Middle-West. For this reason the CMSE is considering switching on the thermal plants in the region.</p>
+<div id="attachment_5538" style="width: 788px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_ena.jpg"><img class=" wp-image-5538" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura1_ena.jpg" alt="Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS" width="778" height="215" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS</p></div>
+<div id="attachment_5539" style="width: 787px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_ena.jpg"><img class=" wp-image-5539" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_ena.jpg" alt="Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS" width="777" height="393" /></a><p class="wp-caption-text">Fonte: Operador Nacional do Sistema (ONS)/ Jun-16: Estimativa ONS</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5562</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weather for the week of June 4 to 10</title>
+		<link>http://www.panoramacomerc.com.br/?p=5560</link>
+		<comments>http://www.panoramacomerc.com.br/?p=5560#comments</comments>
+		<pubDate>Fri, 10 Jun 2016 20:31:26 +0000</pubDate>
+		<dc:creator><![CDATA[comerc]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">http://www.panoramacomerc.com.br/?p=5560</guid>
+		<description><![CDATA[Weather reports call for rain between the North of Rio Grande do Sul and Southern Minas Gerais and Mato Grosso do Sul. Heavy rain is expected in the Parananapanema, Tietê and Grande basins, and the incremental Itaipu region. In the South it should rain hard in the Uruguai and Iguaçu basins. Meanwhile the North and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Weather reports call for rain between the North of Rio Grande do Sul and Southern Minas Gerais and Mato Grosso do Sul. Heavy rain is expected in the Parananapanema, Tietê and Grande basins, and the incremental Itaipu region. In the South it should rain hard in the Uruguai and Iguaçu basins. Meanwhile the North and Northeast should remain dry.</p>
+<div id="attachment_5533" style="width: 305px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Figura1_meteorologia.png"><img class=" wp-image-5533" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/Figura1_meteorologia.png" alt="Fonte: Centro de Previsão de Tempo e Estudos Climático/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS)." width="295" height="329" /></a><p class="wp-caption-text">Fonte: Centro de Previsão de Tempo e Estudos Climático/Instituto Nacional de Pesquisas Espaciais/Operador Nacional do Sistema (CPTEC/INPE/ONS).</p></div>
+<p>Light rain fell in the Madeira basin, and heavy rain in the Grande, Paranaíba and Tietê basins, in the incremental Itaipu region, in the Paranapanema river basin. The South had strong rain in the Uruguai and Iguaçu basins. The weather was dry in the São Francisco river basin, representative of weather in the Northeast of the country. Most of the rain in the Tocantins river basin (North sub-system) fell in the north of the state of Tocantins.</p>
+<div id="attachment_5534" style="width: 313px" class="wp-caption alignnone"><a href="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_meteorologia.jpg"><img class=" wp-image-5534" src="http://www.panoramacomerc.com.br/wp-content/uploads/2016/06/figura2_meteorologia.jpg" alt="Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA)." width="303" height="310" /></a><p class="wp-caption-text">Fonte: Climate Prediction Center/National Centers for Environmental Prediction/National Oceanic and Atmospheric Administration (CPC/NCEP/NOAA).</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.panoramacomerc.com.br/?feed=rss2&#038;p=5560</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
